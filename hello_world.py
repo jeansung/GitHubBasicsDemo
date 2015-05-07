@@ -1,2 +1,1 @@
-def helloWorld():
-	print "Python stuff"
+MALICIOUS ADVERSARY DELETES THINGS OOPS 
